@@ -7,6 +7,7 @@
 
 namespace Com_Methods
 {
+	const double __EPS__ = 1e-7;
 	//абстрактный класс сплайна
 	class Spline
 	{

@@ -153,6 +153,24 @@
     <ClInclude Include="split.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="results\Mesh_adpt1.txt" />
+    <Text Include="results\Mesh_adpt2.txt" />
+    <Text Include="results\osc_w1h1sm0.txt" />
+    <Text Include="results\osc_w1h1sm1.txt" />
+    <Text Include="results\osc_w1h1sm2.txt" />
+    <Text Include="results\osc_w1h1sm3.txt" />
+    <Text Include="results\osc_w1h2sm0.txt" />
+    <Text Include="results\osc_w1h2sm1.txt" />
+    <Text Include="results\osc_w1h2sm2.txt" />
+    <Text Include="results\osc_w1h2sm3.txt" />
+    <Text Include="results\osc_w2h1sm0.txt" />
+    <Text Include="results\osc_w2h1sm1.txt" />
+    <Text Include="results\osc_w2h1sm2.txt" />
+    <Text Include="results\osc_w2h1sm3.txt" />
+    <Text Include="results\osc_w2h2sm0.txt" />
+    <Text Include="results\osc_w2h2sm1.txt" />
+    <Text Include="results\osc_w2h2sm2.txt" />
+    <Text Include="results\osc_w2h2sm3.txt" />
     <Text Include="results\sinx_adpt_output.txt" />
     <Text Include="results\sinx_h1_output.txt" />
     <Text Include="results\sinx_h2_output.txt" />

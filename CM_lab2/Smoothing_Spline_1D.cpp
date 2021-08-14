@@ -85,7 +85,7 @@ namespace Com_Methods
 		for (int i = 0; i < Num_Segments; i++)
 		{
 			//добавление узла сетки в СЛАУ
-			double W = 1.0;
+			double W = 0.5;
 			Assembling(i, this->Points[i], F_Value[i], W);
 			Assembling(i, this->Points[i + 1], F_Value[i + 1], W);
 

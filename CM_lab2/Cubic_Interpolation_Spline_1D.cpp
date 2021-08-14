@@ -79,7 +79,7 @@ namespace Com_Methods
 	void Cubic_Interpolation_Spline_1D::Get_Value(const Point &P, double * Res)const
 	{
 		//машинный ноль
-		double eps = 1e-7;
+		double eps = Com_Methods::__EPS__;
 		//число отрезков
 		int Num_Segment = Points.size() - 1;
 		//поиск отрезка, которому принадлежит точка

@@ -109,5 +109,59 @@
     <Text Include="results\x4_adpt_output.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
+    <Text Include="results\Mesh_adpt2.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\Mesh_adpt1.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w2h1sm1.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w2h1sm2.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w2h2sm1.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w2h2sm2.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w1h1sm1.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w1h1sm2.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w1h2sm1.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w1h2sm2.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w2h1sm0.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w2h2sm0.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w1h1sm0.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w1h2sm0.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w1h1sm3.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w1h2sm3.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w2h1sm3.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="results\osc_w2h2sm3.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
   </ItemGroup>
 </Project>
